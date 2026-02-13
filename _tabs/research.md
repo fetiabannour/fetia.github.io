@@ -6,6 +6,14 @@ permalink: /research/
 order: 2
 ---
 
+<style>
+.content p,
+.content li,
+.page-content p,
+.page-content li {
+  text-align: justify !important;
+}
+</style>
 
 
 My research focuses on the design of **intelligent and adaptive control architectures** for programmable networks. I study how artificial intelligence can enhance the scalability, autonomy, and efficiency of future communication infrastructures. The overarching goal is to achieve **automated, energy-efficient, and policy-aware orchestration** across multi-domain and multi-technology environments.
