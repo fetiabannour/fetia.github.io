@@ -6,6 +6,13 @@ permalink: /teaching/
 order: 4
 ---
 
+<style>
+.post-content p,
+.post-content li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
 
 
 I am involved in the teaching and coordination of several courses at the  
