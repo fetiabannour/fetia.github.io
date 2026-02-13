@@ -20,7 +20,7 @@ paginate: false
 
 # Sidebar
 profile:
-  enabled: true
+  enabled: false
 
 
 
