@@ -6,6 +6,14 @@ icon: fas fa-user
 order: 5
 ---
 
+<style>
+.content p,
+.content li,
+.page-content p,
+.page-content li {
+  text-align: justify !important;
+}
+</style>
 
 
 I am **Fetia Bannour, PhD**, Associate professor (Maîtresse de conférences) at [ensIIE](https://www.ensiie.fr)  
