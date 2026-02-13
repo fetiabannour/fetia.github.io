@@ -18,6 +18,7 @@ My teaching emphasizes both theoretical foundations and hands-on experimentation
 ## 📘 Core Courses
 
 ### 1st & 2nd Year Engineering Program
+#### Courses I lead 
 - **Réseaux de données (Data Networks)**  
   Introduction to the layered network model (OSI/TCP-IP), addressing, subnetting, and routing mechanisms.  
   Includes practical sessions on IP configuration and network troubleshooting.
@@ -30,6 +31,13 @@ My teaching emphasizes both theoretical foundations and hands-on experimentation
   Concepts of processes, scheduling, synchronization, memory management, and shell scripting.  
   Practical sessions using Linux for process control, system calls, and script-based automation.
 
+- **Network Virtualisation (Advanced Option)**  
+  Fundamentals of virtualization, containers, and network function deployment.  
+  Focus on SDN principles, controller–switch interaction, NFV placement, and orchestration tools.
+  
+
+#### Courses I Contribute To
+
  - **Programmation impérative & langage C (Imperative Programming & C)**
    Introduction to imperative programming through the C language.
    Covers fundamental programming concepts, memory management, data structures, and modular design.
@@ -39,10 +47,6 @@ My teaching emphasizes both theoretical foundations and hands-on experimentation
    Semester-long group programming project in C structured into multiple development milestones (lots).
    Students apply software engineering practices including modular design, memory management, testing, documentation, and version control.
    Introduction to tools such as Makefile, Doxygen, Valgrind, CUnit, GanttProject, and Git, followed by a substantial team-based implementation project emphasizing coordination and  collaborative development.
-
-- **Network Virtualisation (Advanced Option)**  
-  Fundamentals of virtualization, containers, and network function deployment.  
-  Focus on SDN principles, controller–switch interaction, NFV placement, and orchestration tools.
 
 ---
 
