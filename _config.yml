@@ -9,7 +9,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
- 
 
 version_tag: 20251029
 
